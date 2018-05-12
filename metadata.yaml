@@ -18,6 +18,8 @@ creator:
     gutenberg_agent_id: '8421'
     url: http://www.gutenberg.org/2009/agents/8421
 description: Cover -- Contents.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19041#Blister-Jones
 gutenberg_issued: '2006-08-14'
 gutenberg_type: Text
 identifiers:
